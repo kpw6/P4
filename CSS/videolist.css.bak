@@ -1,0 +1,23 @@
+body div {
+	padding: 5%;
+}
+
+body div video{
+	width: 30%;
+	float: left;
+}
+
+body video:hover {
+	outline-width: 3px;
+	outline-color: black;
+	outline-style: solid;
+}
+
+body div h3 {
+	float: left;
+	padding-top: 7.5%;
+}
+
+footer {
+	
+}
